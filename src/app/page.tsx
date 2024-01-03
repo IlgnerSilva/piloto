@@ -3,8 +3,7 @@ import { Button } from "primereact/button";
 export default function Home() {
 	return (
 		<>
-			<Button label="Hello World" />
-			<h1>TESTANDO</h1>
+			{/* <img width={'100%'}  src="https://primefaces.org/atlantis-react/assets/layout/images/effect-ondark.png" alt="" /> */}
 		</>
 	)
 }
